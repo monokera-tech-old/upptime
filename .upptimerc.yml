@@ -1,31 +1,55 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+---
+owner: "monokera-tech"
+repo: "upptime"
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: "API Gateway"
+    url: "https://apigw-service-api.monokera.site"
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+  - name: "CarroYa"
+    url: "https://asistencias.carroya.com"
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+  - name: "Comfamiliar"
+    url: "https://servicios.monokera.com/compra-asistencias-y-seguros"
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+
+assignees:
+  - "astro-debot"
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: "status.ops.monokera.site"
+  logoUrl: "https://cdn.monokera.site/monokera/images/status_logo_light.png"
+  favicon: "https://cdn.monokera.site/monokera/images/status_favicon.png"
+  name: "Monokera - Status"
+  introTitle: "**Monokera** *Insurance, the new way!* - Uptime monitor and status page, powered entirely by **[Upptime](https://upptime.js.org/)** and **[GitHub Pages](https://pages.github.com/)**."
+  introMessage: "This is the **Monokera** status page which uses **real-time** data from our [GitHub repository](https://github.com/$OWNER/$REPO)."
+  theme: "light"
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: "Status"
+      href: "/"
+    - title: "GitHub"
+      href: "https://github.com/$OWNER/$REPO"
+    - title: "About Us"
+      href: "https://monokera.com/"
+  metaTags:
+    - name: "color-scheme"
+      content: "light"
+    - name: "robots"
+      content: "noindex"
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
+user-agent: "astro-debot"
