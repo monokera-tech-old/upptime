@@ -3,6 +3,11 @@ owner: "monokera-tech"
 repo: "upptime"
 
 sites:
+  - name: "Monokera Site"
+    url: "https://monokera.com/"
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
   - name: "API Gateway"
     url: "https://apigw-service-api.monokera.site"
     maxResponseTime: 2000
@@ -24,7 +29,7 @@ assignees:
 
 status-website:
   cname: "status.ops.monokera.site"
-  logoUrl: "https://cdn.monokera.site/monokera/images/status_logo_light.png"
+  logoUrl: "https://cdn.monokera.site/monokera/images/status_logo_dark.png"
   favicon: "https://cdn.monokera.site/monokera/images/status_favicon.png"
   name: ""
   introTitle: "**Monokera** *Insurance, the new way!* - Uptime monitor and status page, powered entirely by [Upptime](https://upptime.js.org/) and [GitHub Pages](https://pages.github.com/)."
