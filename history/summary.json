@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 684,
-    "timeDay": 618,
-    "timeWeek": 635,
-    "timeMonth": 704,
-    "timeYear": 684,
+    "time": 683,
+    "timeDay": 616,
+    "timeWeek": 616,
+    "timeMonth": 708,
+    "timeYear": 683,
     "dailyMinutesDown": {
       "2022-03-24": 8
     }
@@ -25,14 +25,14 @@
     "icon": "https://favicons.githubusercontent.com/apigw-service-api.monokera.site",
     "slug": "api-gateway",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.76%",
+    "uptimeYear": "99.77%",
     "time": 280,
-    "timeDay": 370,
-    "timeWeek": 331,
+    "timeDay": 214,
+    "timeWeek": 307,
     "timeMonth": 318,
     "timeYear": 280,
     "dailyMinutesDown": {
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 369,
-    "timeDay": 450,
-    "timeWeek": 404,
+    "time": 368,
+    "timeDay": 275,
+    "timeWeek": 380,
     "timeMonth": 368,
-    "timeYear": 369,
+    "timeYear": 368,
     "dailyMinutesDown": {}
   },
   {
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 593,
-    "timeDay": 754,
-    "timeWeek": 689,
-    "timeMonth": 614,
-    "timeYear": 593,
+    "time": 589,
+    "timeDay": 400,
+    "timeWeek": 635,
+    "timeMonth": 616,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2022-02-23": 22
     }
