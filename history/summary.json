@@ -67,18 +67,19 @@
     "url": "https://servicios.monokera.com/compra-asistencias-y-seguros",
     "icon": "https://favicons.githubusercontent.com/servicios.monokera.com",
     "slug": "comfamiliar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 545,
-    "timeDay": 254,
-    "timeWeek": 487,
-    "timeMonth": 500,
-    "timeYear": 545,
+    "time": 542,
+    "timeDay": 231,
+    "timeWeek": 452,
+    "timeMonth": 491,
+    "timeYear": 542,
     "dailyMinutesDown": {
+      "2022-05-23": 0,
       "2022-02-23": 22
     }
   }
