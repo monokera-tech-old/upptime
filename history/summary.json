@@ -47,9 +47,9 @@
     "url": "https://asistencias.carroya.com",
     "icon": "https://favicons.githubusercontent.com/asistencias.carroya.com",
     "slug": "carro-ya",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "86.08%",
+    "uptimeDay": "86.07%",
     "uptimeWeek": "98.01%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.76%",
@@ -59,6 +59,7 @@
     "timeMonth": 411,
     "timeYear": 376,
     "dailyMinutesDown": {
+      "2022-05-27": 0,
       "2022-05-26": 201,
       "2022-05-13": 117
     }
