@@ -44,7 +44,7 @@
   },
   {
     "name": "API Gateway",
-    "url": "https://apigw-service-api.monokera.site",
+    "url": "https://apigw.prod.monokera.site",
     "icon": "https://icons.duckduckgo.com/ip3/apigw-service-api.monokera.site.ico",
     "slug": "api-gateway",
     "status": "down",

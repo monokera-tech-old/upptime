@@ -9,7 +9,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: "API Gateway"
-    url: "https://apigw-service-api.monokera.site"
+    url: "https://apigw.prod.monokera.site"
     maxResponseTime: 2000
     expectedStatusCodes:
       - 200
