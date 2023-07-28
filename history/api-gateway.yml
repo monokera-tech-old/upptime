@@ -1,7 +1,7 @@
 url: https://apigw-service-api.monokera.site
-status: up
-code: 403
-responseTime: 73
-lastUpdated: 2023-07-28T05:02:47.221Z
+status: down
+code: 404
+responseTime: 55
+lastUpdated: 2023-07-28T05:13:06.229Z
 startTime: Wed Feb 23 2022 04:37:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
