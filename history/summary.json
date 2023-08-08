@@ -6,13 +6,13 @@
     "slug": "monokera-site",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "49.04%",
+    "uptimeDay": "55.11%",
     "uptimeWeek": "92.72%",
     "uptimeMonth": "98.31%",
     "uptimeYear": "99.79%",
     "time": 1179,
-    "timeDay": 3847,
-    "timeWeek": 3529,
+    "timeDay": 3624,
+    "timeWeek": 3532,
     "timeMonth": 2711,
     "timeYear": 1319,
     "dailyMinutesDown": {
@@ -56,8 +56,8 @@
     "uptimeMonth": "91.06%",
     "uptimeYear": "99.22%",
     "time": 217,
-    "timeDay": 58,
-    "timeWeek": 112,
+    "timeDay": 240,
+    "timeWeek": 139,
     "timeMonth": 188,
     "timeYear": 211,
     "dailyMinutesDown": {
@@ -86,10 +86,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 307,
-    "timeDay": 346,
-    "timeWeek": 359,
-    "timeMonth": 265,
-    "timeYear": 286,
+    "timeDay": 264,
+    "timeWeek": 379,
+    "timeMonth": 264,
+    "timeYear": 285,
     "dailyMinutesDown": {
       "2022-11-13": 10,
       "2022-08-30": 112
@@ -107,10 +107,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 402,
-    "timeDay": 182,
-    "timeWeek": 264,
-    "timeMonth": 333,
-    "timeYear": 379,
+    "timeDay": 399,
+    "timeWeek": 301,
+    "timeMonth": 331,
+    "timeYear": 378,
     "dailyMinutesDown": {}
   }
 ]
