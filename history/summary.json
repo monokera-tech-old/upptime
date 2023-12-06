@@ -78,9 +78,9 @@
     "url": "https://asistencias.carroya.com",
     "icon": "https://icons.duckduckgo.com/ip3/asistencias.carroya.com.ico",
     "slug": "carro-ya",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 276,
     "timeMonth": 257,
     "timeYear": 278,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-06": 0
+    }
   },
   {
     "name": "Comfamiliar",
@@ -97,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/servicios.monokera.com.ico",
     "slug": "comfamiliar",
     "status": "down",
-    "uptime": "87.95%",
+    "uptime": "87.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "78.52%",
+    "uptimeYear": "78.46%",
     "time": 379,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2023-12-06": 9,
+      "2023-12-06": 329,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
