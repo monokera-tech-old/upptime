@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 707,
-    "timeDay": 512,
-    "timeWeek": 732,
-    "timeMonth": 779,
-    "timeYear": 392,
+    "time": 708,
+    "timeDay": 1078,
+    "timeWeek": 729,
+    "timeMonth": 790,
+    "timeYear": 394,
     "dailyMinutesDown": {
       "2024-06-20": 7,
       "2024-06-12": 11,
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 81,
-    "timeWeek": 139,
-    "timeMonth": 156,
+    "timeDay": 259,
+    "timeWeek": 138,
+    "timeMonth": 160,
     "timeYear": 176,
     "dailyMinutesDown": {
       "2024-07-28": 8
@@ -49,18 +49,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/asistencias.carroya.com.ico",
     "slug": "carro-ya",
     "status": "down",
-    "uptime": "66.75%",
+    "uptime": "66.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "11.29%",
+    "uptimeYear": "11.02%",
     "time": 273,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 274,
+    "timeYear": 277,
     "dailyMinutesDown": {
-      "2024-10-25": 12,
+      "2024-10-26": 11,
+      "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
@@ -393,7 +394,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/servicios.monokera.com.ico",
     "slug": "comfamiliar",
     "status": "down",
-    "uptime": "58.71%",
+    "uptime": "58.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -404,7 +405,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-25": 12,
+      "2024-10-26": 12,
+      "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
@@ -767,8 +769,7 @@
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
-      "2023-10-28": 1440,
-      "2023-10-27": 1440
+      "2023-10-28": 1440
     }
   }
 ]
