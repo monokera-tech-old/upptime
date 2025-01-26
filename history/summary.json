@@ -6,15 +6,15 @@
     "slug": "monokera-site",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.25%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.74%",
-    "time": 442,
-    "timeDay": 855,
-    "timeWeek": 891,
-    "timeMonth": 797,
-    "timeYear": 539,
+    "time": 444,
+    "timeDay": 1135,
+    "timeWeek": 892,
+    "timeMonth": 814,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2025-01-24": 11,
       "2025-01-03": 10,
@@ -38,9 +38,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 260,
-    "timeWeek": 200,
-    "timeMonth": 156,
+    "timeDay": 263,
+    "timeWeek": 195,
+    "timeMonth": 163,
     "timeYear": 167,
     "dailyMinutesDown": {
       "2024-07-28": 8
@@ -52,7 +52,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/asistencias.carroya.com.ico",
     "slug": "carro-ya",
     "status": "down",
-    "uptime": "60.99%",
+    "uptime": "60.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -63,7 +63,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-25": 11,
+      "2025-01-26": 12,
+      "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
@@ -426,8 +427,7 @@
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
-      "2024-01-28": 1440,
-      "2024-01-27": 1440
+      "2024-01-28": 1440
     }
   },
   {
@@ -436,18 +436,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/servicios.monokera.com.ico",
     "slug": "comfamiliar",
     "status": "down",
-    "uptime": "53.65%",
+    "uptime": "53.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 566,
+    "time": 631,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-25": 11,
+      "2025-01-26": 12,
+      "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
@@ -810,8 +811,7 @@
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
-      "2024-01-28": 1440,
-      "2024-01-27": 1440
+      "2024-01-28": 1440
     }
   }
 ]
