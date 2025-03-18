@@ -6,15 +6,15 @@
     "slug": "monokera-site",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.25%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.09%",
     "uptimeMonth": "98.93%",
     "uptimeYear": "99.65%",
     "time": 482,
-    "timeDay": 702,
+    "timeDay": 644,
     "timeWeek": 637,
-    "timeMonth": 638,
-    "timeYear": 609,
+    "timeMonth": 634,
+    "timeYear": 610,
     "dailyMinutesDown": {
       "2025-03-16": 11,
       "2025-03-15": 58,
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 290,
-    "timeWeek": 160,
-    "timeMonth": 184,
-    "timeYear": 166,
+    "time": 169,
+    "timeDay": 62,
+    "timeWeek": 153,
+    "timeMonth": 178,
+    "timeYear": 165,
     "dailyMinutesDown": {
       "2025-03-01": 16,
       "2024-07-28": 8
@@ -73,18 +73,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/asistencias.carroya.com.ico",
     "slug": "carro-ya",
     "status": "down",
-    "uptime": "58.21%",
+    "uptime": "58.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 266,
+    "time": 263,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-17": 66,
+      "2025-03-18": 64,
+      "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -447,8 +448,7 @@
       "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
-      "2024-03-19": 1440,
-      "2024-03-18": 1440
+      "2024-03-19": 1440
     }
   },
   {
@@ -457,7 +457,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/servicios.monokera.com.ico",
     "slug": "comfamiliar",
     "status": "down",
-    "uptime": "51.20%",
+    "uptime": "51.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -468,7 +468,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-17": 66,
+      "2025-03-18": 64,
+      "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -831,8 +832,7 @@
       "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
-      "2024-03-19": 1440,
-      "2024-03-18": 1440
+      "2024-03-19": 1440
     }
   }
 ]
