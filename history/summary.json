@@ -8,12 +8,12 @@
     "uptime": "99.86%",
     "uptimeDay": "99.04%",
     "uptimeWeek": "98.34%",
-    "uptimeMonth": "98.52%",
+    "uptimeMonth": "98.46%",
     "uptimeYear": "99.59%",
     "time": 509,
     "timeDay": 587,
     "timeWeek": 618,
-    "timeMonth": 614,
+    "timeMonth": 622,
     "timeYear": 620,
     "dailyMinutesDown": {
       "2025-03-29": 14,
@@ -68,7 +68,7 @@
     "time": 169,
     "timeDay": 256,
     "timeWeek": 190,
-    "timeMonth": 177,
+    "timeMonth": 179,
     "timeYear": 166,
     "dailyMinutesDown": {
       "2025-03-01": 16,
@@ -84,7 +84,7 @@
     "uptime": "57.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 247,
     "timeDay": 0,
@@ -92,7 +92,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-29": 1408,
+      "2025-03-30": 71,
+      "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -455,8 +456,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   },
   {
@@ -465,10 +465,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/servicios.monokera.com.ico",
     "slug": "comfamiliar",
     "status": "down",
-    "uptime": "50.62%",
+    "uptime": "50.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -476,7 +476,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-29": 1408,
+      "2025-03-30": 71,
+      "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -839,8 +840,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   }
 ]
