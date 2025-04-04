@@ -6,15 +6,15 @@
     "slug": "monokera-site",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "93.35%",
+    "uptimeDay": "94.71%",
     "uptimeWeek": "97.54%",
-    "uptimeMonth": "98.05%",
+    "uptimeMonth": "98.08%",
     "uptimeYear": "99.60%",
-    "time": 525,
-    "timeDay": 624,
-    "timeWeek": 572,
-    "timeMonth": 599,
-    "timeYear": 620,
+    "time": 526,
+    "timeDay": 678,
+    "timeWeek": 570,
+    "timeMonth": 604,
+    "timeYear": 622,
     "dailyMinutesDown": {
       "2025-04-03": 76,
       "2025-04-02": 20,
@@ -71,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 129,
-    "timeWeek": 195,
-    "timeMonth": 181,
-    "timeYear": 164,
+    "timeDay": 169,
+    "timeWeek": 193,
+    "timeMonth": 184,
+    "timeYear": 165,
     "dailyMinutesDown": {
       "2025-03-01": 16,
       "2024-07-28": 8
@@ -86,18 +86,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/asistencias.carroya.com.ico",
     "slug": "carro-ya",
     "status": "down",
-    "uptime": "57.30%",
+    "uptime": "57.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 251,
+    "time": 237,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 1080,
+      "2025-04-04": 65,
+      "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -460,8 +461,7 @@
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
-      "2024-04-05": 1440,
-      "2024-04-04": 1440
+      "2024-04-05": 1440
     }
   },
   {
@@ -470,7 +470,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/servicios.monokera.com.ico",
     "slug": "comfamiliar",
     "status": "down",
-    "uptime": "50.40%",
+    "uptime": "50.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -481,7 +481,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 1080,
+      "2025-04-04": 65,
+      "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -844,8 +845,7 @@
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
-      "2024-04-05": 1440,
-      "2024-04-04": 1440
+      "2024-04-05": 1440
     }
   }
 ]
