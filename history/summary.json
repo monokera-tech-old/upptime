@@ -4,18 +4,19 @@
     "url": "https://monokera.com/",
     "icon": "https://icons.duckduckgo.com/ip3/monokera.com.ico",
     "slug": "monokera-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "99.24%",
     "uptimeWeek": "97.82%",
     "uptimeMonth": "98.49%",
     "uptimeYear": "99.65%",
     "time": 536,
-    "timeDay": 706,
-    "timeWeek": 593,
-    "timeMonth": 634,
+    "timeDay": 554,
+    "timeWeek": 574,
+    "timeMonth": 629,
     "timeYear": 647,
     "dailyMinutesDown": {
+      "2025-05-04": 0,
       "2025-05-03": 11,
       "2025-05-02": 113,
       "2025-05-01": 11,
@@ -74,7 +75,7 @@
       "2024-06-20": 7,
       "2024-06-12": 11,
       "2024-05-29": 8,
-      "2024-05-17": 59
+      "2024-05-17": 43
     }
   },
   {
@@ -104,7 +105,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/asistencias.carroya.com.ico",
     "slug": "carro-ya",
     "status": "down",
-    "uptime": "55.81%",
+    "uptime": "55.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -115,7 +116,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-04": 75,
+      "2025-05-04": 345,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
@@ -499,7 +500,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-04": 75,
+      "2025-05-04": 345,
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
