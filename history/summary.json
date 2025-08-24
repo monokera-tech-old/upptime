@@ -11,9 +11,9 @@
     "uptimeMonth": "98.01%",
     "uptimeYear": "99.48%",
     "time": 700,
-    "timeDay": 954,
-    "timeWeek": 815,
-    "timeMonth": 830,
+    "timeDay": 615,
+    "timeWeek": 805,
+    "timeMonth": 817,
     "timeYear": 720,
     "dailyMinutesDown": {
       "2025-08-05": 870,
@@ -88,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 283,
-    "timeWeek": 173,
-    "timeMonth": 183,
+    "timeDay": 88,
+    "timeWeek": 178,
+    "timeMonth": 177,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2025-03-01": 16
@@ -102,7 +102,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/asistencias.carroya.com.ico",
     "slug": "carro-ya",
     "status": "down",
-    "uptime": "50.96%",
+    "uptime": "50.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -113,7 +113,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-23": 12,
+      "2025-08-24": 15,
+      "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
@@ -476,8 +477,7 @@
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
-      "2024-08-25": 1440,
-      "2024-08-24": 1440
+      "2024-08-25": 1440
     }
   },
   {
@@ -486,7 +486,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/servicios.monokera.com.ico",
     "slug": "comfamiliar",
     "status": "down",
-    "uptime": "44.83%",
+    "uptime": "44.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -497,7 +497,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-23": 13,
+      "2025-08-24": 15,
+      "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
@@ -860,8 +861,7 @@
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
-      "2024-08-25": 1440,
-      "2024-08-24": 1440
+      "2024-08-25": 1440
     }
   }
 ]
