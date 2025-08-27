@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.01%",
     "uptimeYear": "99.48%",
-    "time": 702,
-    "timeDay": 717,
-    "timeWeek": 779,
-    "timeMonth": 814,
-    "timeYear": 720,
+    "time": 703,
+    "timeDay": 837,
+    "timeWeek": 816,
+    "timeMonth": 820,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2025-08-05": 870,
       "2025-07-18": 13,
@@ -88,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 303,
-    "timeWeek": 177,
-    "timeMonth": 181,
+    "timeDay": 199,
+    "timeWeek": 189,
+    "timeMonth": 182,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2025-03-01": 16
@@ -102,7 +102,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/asistencias.carroya.com.ico",
     "slug": "carro-ya",
     "status": "down",
-    "uptime": "50.84%",
+    "uptime": "50.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -113,7 +113,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-26": 13,
+      "2025-08-27": 13,
+      "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -476,8 +477,7 @@
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
-      "2024-08-28": 1440,
-      "2024-08-27": 1440
+      "2024-08-28": 1440
     }
   },
   {
@@ -486,7 +486,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/servicios.monokera.com.ico",
     "slug": "comfamiliar",
     "status": "down",
-    "uptime": "44.72%",
+    "uptime": "44.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -497,7 +497,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-26": 13,
+      "2025-08-27": 13,
+      "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -860,8 +861,7 @@
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
-      "2024-08-28": 1440,
-      "2024-08-27": 1440
+      "2024-08-28": 1440
     }
   }
 ]
