@@ -4,18 +4,19 @@
     "url": "https://monokera.com/",
     "icon": "https://icons.duckduckgo.com/ip3/monokera.com.ico",
     "slug": "monokera-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "96.66%",
+    "uptimeDay": "96.65%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.47%",
-    "time": 761,
-    "timeDay": 3396,
-    "timeWeek": 1736,
-    "timeMonth": 1162,
+    "time": 762,
+    "timeDay": 2903,
+    "timeWeek": 1649,
+    "timeMonth": 1144,
     "timeYear": 752,
     "dailyMinutesDown": {
+      "2025-10-03": 0,
       "2025-10-02": 49,
       "2025-10-01": 8,
       "2025-09-30": 4,
@@ -74,8 +75,7 @@
       "2025-02-21": 27,
       "2025-02-20": 35,
       "2025-02-16": 11,
-      "2025-02-12": 16,
-      "2025-02-03": 8
+      "2025-02-12": 16
     }
   },
   {
@@ -104,7 +104,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/asistencias.carroya.com.ico",
     "slug": "carro-ya",
     "status": "down",
-    "uptime": "49.38%",
+    "uptime": "49.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -115,7 +115,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-03": 12,
+      "2025-10-03": 184,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
@@ -499,7 +499,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-03": 12,
+      "2025-10-03": 185,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
